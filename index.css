@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.button:hover {
+    background-color: blueviolet;
+    box-shadow: 0 2px 6px blue;
+}
